@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.your.company.unique.plugin.id</id>
   <name>Very Pink!</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="sneha.shinde350@gmail.com" url="https://www.cs.mcgill.ca/~sshind7/#">Sneha</vendor>
 
   <description><![CDATA[
