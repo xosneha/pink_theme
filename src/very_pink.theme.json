@@ -2,7 +2,7 @@
   "name": "very_pink",
   "dark": true,
   "author": "Sneha",
-  "editorScheme": "/themes/very_pink.xml",
+  "editorScheme": "/resources/themes/very_pink.xml",
   "ui": {
     "*": {
       "acceleratorForeground": "#F92672",
@@ -125,7 +125,7 @@
       "inactiveMaskColor": "#3b4252",
       "inactiveUnderlineColor": "#cf7d7d",
       "selectedBackground": "#4c566a",
-      "selectedForeground": "#d8dee9",
+      "selectedForeground": "#f5dce3",
       "underlineColor": "#b03560",
       "underlinedTabBackground": "#4c566a"
     },
@@ -160,7 +160,7 @@
     },
     "List": {
       "background": "#323846",
-      "selectionInactiveForeground": "#e5e9f0"
+      "selectionInactiveForeground": "#f5dce3"
     },
     "Menu": {
       "background": "#323846",
